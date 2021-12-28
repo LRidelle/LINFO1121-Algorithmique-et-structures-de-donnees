@@ -8,9 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="LSINF1121_PART2_Median" />
         <module name="LSINF1121_PART2_MergeSort" />
-        <module name="LSINF1121_PART5_GlobalWarming" />
         <module name="LSINF1121_PART6_GlobalWarming" />
         <module name="LSINF1121_PART6_Maze" />
+        <module name="LSINF1121_PART5_GlobalWarming" />
       </profile>
     </annotationProcessing>
   </component>

@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="LSINF1121_PART3_BinarySearchTree" />
         <module name="LSINF1121_PART6_Digraph" />
+        <module name="LSINF1121_PART3_BinarySearchTree" />
       </profile>
     </annotationProcessing>
   </component>
